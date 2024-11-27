@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 <br />
 <div align="center">
     <img src="assets/multi-agent.png">
